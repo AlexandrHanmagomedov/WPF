@@ -1,0 +1,17 @@
+U:\WPF\WpfApp2 Разбор шаблонов проекта\bin\Debug\WpfApp2 Разбор шаблонов проекта.exe.config
+U:\WPF\WpfApp2 Разбор шаблонов проекта\bin\Debug\WpfApp2 Разбор шаблонов проекта.exe
+U:\WPF\WpfApp2 Разбор шаблонов проекта\bin\Debug\WpfApp2 Разбор шаблонов проекта.pdb
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта.csproj.AssemblyReference.cache
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта.csproj.SuggestedBindingRedirects.cache
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\MainWindow.g.cs
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\App.g.cs
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта_MarkupCompile.cache
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта_MarkupCompile.lref
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\MainWindow.baml
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта.g.resources
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2_Разбор_шаблонов_проекта.Properties.Resources.resources
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта.csproj.GenerateResource.cache
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта.csproj.CoreCompileInputs.cache
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта.exe
+U:\WPF\WpfApp2 Разбор шаблонов проекта\obj\Debug\WpfApp2 Разбор шаблонов проекта.pdb
+U:\WPF\WpfApp2 Разбор шаблонов проекта\bin\Debug\dancing-among-us-orange-parr9vvs8bry61da.gif
