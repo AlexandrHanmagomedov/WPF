@@ -1,0 +1,16 @@
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator.csproj.AssemblyReference.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator.csproj.SuggestedBindingRedirects.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\MainWindow.g.cs
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\App.g.cs
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator_MarkupCompile.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator_MarkupCompile.lref
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\bin\Debug\Wpf-DZ-15-2-Calculator.exe.config
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\bin\Debug\Wpf-DZ-15-2-Calculator.exe
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\bin\Debug\Wpf-DZ-15-2-Calculator.pdb
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\MainWindow.baml
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator.g.resources
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf_DZ_15_2_Calculator.Properties.Resources.resources
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator.csproj.GenerateResource.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator.csproj.CoreCompileInputs.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator.exe
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-2-Calculator\obj\Debug\Wpf-DZ-15-2-Calculator.pdb

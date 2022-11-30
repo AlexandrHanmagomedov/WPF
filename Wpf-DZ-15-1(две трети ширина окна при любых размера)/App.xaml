@@ -1,0 +1,9 @@
+﻿<Application x:Class="Wpf_DZ_15_1_две_трети_ширина_окна_при_любых_размера_.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Wpf_DZ_15_1_две_трети_ширина_окна_при_любых_размера_"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

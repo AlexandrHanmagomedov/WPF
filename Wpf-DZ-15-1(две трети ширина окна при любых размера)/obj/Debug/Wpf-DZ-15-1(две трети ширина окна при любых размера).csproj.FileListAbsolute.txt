@@ -1,0 +1,16 @@
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\bin\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).exe.config
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\bin\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).exe
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\bin\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).pdb
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).csproj.AssemblyReference.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).csproj.SuggestedBindingRedirects.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\MainWindow.g.cs
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\App.g.cs
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера)_MarkupCompile.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера)_MarkupCompile.lref
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\MainWindow.baml
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).g.resources
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf_DZ_15_1_две_трети_ширина_окна_при_любых_размера_.Properties.Resources.resources
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).csproj.GenerateResource.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).csproj.CoreCompileInputs.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).exe
+D:\distrib\VisualStudio\repos\Wpf-DZ-15-1(две трети ширина окна при любых размера)\obj\Debug\Wpf-DZ-15-1(две трети ширина окна при любых размера).pdb
