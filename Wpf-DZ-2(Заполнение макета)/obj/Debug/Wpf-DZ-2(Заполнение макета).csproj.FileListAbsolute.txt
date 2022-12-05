@@ -1,0 +1,16 @@
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета).csproj.SuggestedBindingRedirects.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\App.g.cs
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета)_MarkupCompile.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\bin\Debug\Wpf-DZ-2(Заполнение макета).exe.config
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\bin\Debug\Wpf-DZ-2(Заполнение макета).exe
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\bin\Debug\Wpf-DZ-2(Заполнение макета).pdb
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\MainWindow.g.cs
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета)_MarkupCompile.lref
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\MainWindow.baml
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета).g.resources
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf_DZ_2_Заполнение_макета_.Properties.Resources.resources
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета).csproj.GenerateResource.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета).csproj.CoreCompileInputs.cache
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета).exe
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета).pdb
+D:\distrib\VisualStudio\repos\Wpf-DZ-2(Заполнение макета)\obj\Debug\Wpf-DZ-2(Заполнение макета).csproj.AssemblyReference.cache
