@@ -1,0 +1,67 @@
+﻿<Window x:Class="TestApp.AuthorizationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestApp"
+        mc:Ignorable="d"
+        Title="AuthorizationWindow" Height="450" Width="450"
+        MinWidth="350"
+        MinHeight="350">
+    
+    <!--<Window.DataContext>
+        <x:Array Type="SolidColorBrush">
+            <SolidColorBrush Color="BlanchedAlmond"/>
+            <SolidColorBrush Color="Blue"/>
+        </x:Array>
+    </Window.DataContext>
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="baseColor" Color="Green"/>
+    </Window.Resources>-->
+    
+    <Grid Grid.IsSharedSizeScope="True">
+        <TextBlock VerticalAlignment="Top"
+                   HorizontalAlignment="Center"
+                   Text="{Binding Path=Message, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <StackPanel MaxWidth="450"
+                    VerticalAlignment="Center"
+                    Margin="50 0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="grp"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Логин"/>
+                <TextBox Grid.Column="1"
+                         Text="{Binding Path=LoginUser, Mode=TwoWay, UpdateSourceTrigger=LostFocus}"/>
+            </Grid>
+            <Grid Margin="0 15 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="grp"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Пароль"/>
+                <PasswordBox Grid.Column="1"
+                             x:Name="pwdBox"/>
+            </Grid>
+            <Button Content="Войти"
+                    Height="50"
+                    Margin="50 15 50 0"
+                    Click="Button_Click"
+                    IsDefault="True"
+                    IsEnabled="{Binding Path=IsEnabledAuth}"/>
+            <Label HorizontalAlignment="Center">
+                <TextBlock>
+                    <Hyperlink>Забыли пароль?</Hyperlink>
+                </TextBlock>
+            </Label>
+        </StackPanel>
+        <TextBlock VerticalAlignment="Bottom"
+                   HorizontalAlignment="Center"
+                   Text="{Binding Path=UserName, StringFormat='Пользователь {0} найден!',
+                            Mode=OneWay, UpdateSourceTrigger=PropertyChanged,
+                            TargetNullValue='Авторизуйтесь'}"></TextBlock>
+    </Grid>
+</Window>
